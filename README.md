@@ -12,4 +12,4 @@ Passionate about building efficient systems and simplifying complex workflows.
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibarraz5&show_icons=true&theme=radical)
 
 ## 🌐 Connect
-[LinkedIn]((https://www.linkedin.com/in/ivan-barraza-duran-85456b184/)) | [Portfolio](https://ivanb.dev)
+[LinkedIn](https://www.linkedin.com/in/ivan-barraza-duran-85456b184/) | [Portfolio](https://ivanb.dev)
