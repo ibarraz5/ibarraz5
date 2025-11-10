@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ivan Barraza-Duran
 
-<!--
-**ibarraz5/ibarraz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | ⚙️ Embedded Systems | 📊 Data Analytics  
+Passionate about building efficient systems and simplifying complex workflows.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python, Django, SQL, Power BI  
+- C++, Jetson, PyTorch, OpenCV  
+- Android (Kotlin), AWS, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanb&show_icons=true&theme=radical)
+
+## 🌐 Connect
+[LinkedIn]((https://www.linkedin.com/in/ivan-barraza-duran-85456b184/)) | [Portfolio](https://ivanb.dev)
