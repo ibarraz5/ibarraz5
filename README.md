@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivan Barraza-Duran
+# 👋 Hi, I'm Ivan Barraza
 
 💻 Software Engineer | ⚙️ Embedded Systems | 📊 Data Analytics  
 Passionate about building efficient systems and simplifying complex workflows.
@@ -9,7 +9,7 @@ Passionate about building efficient systems and simplifying complex workflows.
 - Android (Kotlin), AWS, GitHub Actions
 
 ## 📈 GitHub Stats
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanb&show_icons=true&theme=radical)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibarraz5&show_icons=true&theme=radical)
 
 ## 🌐 Connect
 [LinkedIn]((https://www.linkedin.com/in/ivan-barraza-duran-85456b184/)) | [Portfolio](https://ivanb.dev)
