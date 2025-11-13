@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivan Barraza
+# Ivan Barraza
 
 💻 Software Engineer | ⚙️ Embedded Systems | 📊 Data Analytics  
 Passionate about building efficient systems and simplifying complex workflows.
